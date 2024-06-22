@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignment_newsportal/static/css/main.70952417.css",
+    "main.js": "/assignment_newsportal/static/js/main.850f5963.js",
+    "index.html": "/assignment_newsportal/index.html",
+    "main.70952417.css.map": "/assignment_newsportal/static/css/main.70952417.css.map",
+    "main.850f5963.js.map": "/assignment_newsportal/static/js/main.850f5963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70952417.css",
+    "static/js/main.850f5963.js"
+  ]
+}
